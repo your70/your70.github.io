@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+pito
 
 You can use the [editor on GitHub](https://github.com/your70/your70.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
