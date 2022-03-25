@@ -1,3 +1,5 @@
+
+
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 
@@ -57,7 +59,65 @@ Asegurar que no hay presencia de malware. ...
 Liberar espacio en el disco duro. ...
 Desfragmentar y optimizar unidades.
 
-15¿
+15¿Cómo solucionar problemas de rendimiento lento?Datos fragmentados en el disco duro 
+Controladores obsoletos para componentes internos o periféricos externos, como estaciones de acoplamiento 
+Archivos del sistema operativo obsoletos o dañados 
+Errores de disco 
+Memoria insuficiente (RAM)
+Falla de hardware
+
+16¿Por qué tu PC va lento si hace pocos meses que lo compraste?Utilizar el ordenador a diario acumula posibilidades de que cometamos ciertos errores que, poco a poco, van mermando su rendimiento y haciendo que cada vez funcione más lento.
+
+17¿Por qué tu PC va lento?El motivo por el cual tu ordenador va más lento de lo esperado es por el hecho que está haciendo trabajo de más, y de buena parte del mismo no eres consciente, ya que no lo ves en pantalla en forma de aplicaciones. 
+
+18¿Tener demasiados programas en ejecución?Con el tiempo, probablemente hayas ido instalando más y más programas, y aunque los hayas utilizado solo una vez, si luego te has olvidado de desinstalarlos pueden haberse quedado con procesos residentes en memoria. 
+
+19¿No reiniciar regularmente el ordenador?Por qué cuando tenemos un problema en el PC y vamos al informático a pedir ayuda, lo primero que nos dice siempre es que reiniciemos el PC
+
+19¿No hacer mantenimiento periódico?La mayoría de usuarios de PC no suelen darle un mantenimiento adecuado al mismo, y simplemente cuando empieza a ir lento o les da problemas, lo formatean. Bueno, puede ser una opción, pero si le damos un mantenimiento adecuado podremos utilizarlo durante muchos años sin problemas y sin tener que formatear, que siempre es un engorro.
+
+20¿No actualizar el equipo?Las actualizaciones automáticas son un poco engorro, porque a veces intervienen cuando menos lo esperamos y nos fastidian porque tardan mucho tiempo. Sin embargo, son algo necesario y desde luego recomendable para el buen funcionamiento del equipo, así que es una buena idea programarlas para que se instalen cuando nosotros queramos como mínimo.
+
+21¿Drivers sin actualizar?Suele ser lo menos problemático, pero en conjunto con el apartado anterior, una actualización grande de Windows puede dejarte el PC con un ritmo de tortuga si el driver presenta alguna incompatibilidad en algún módulo. 
+
+22¿Cómo los programas que usa utilizan más recursos?Algunos programas usan muy pocos recursos cuando están inactivos, otros, especialmente si están revisando actualizaciones de Internet o trabajando en una tarea pueden usar mucha energía de procesamiento y mucho almacenamiento de RAM.
+
+
+23¿Elimine los programas innecesarios?Para ver los programas que están usando más recursos, presione las teclas Ctrl, Alt y Supr al mismo tiempo.
+
+24¿Desactive los programas de arranque?Las computadoras a menudo tienen programas habilitados que se inician cuando enciende su computadora. O hay programas que se necesitaron en el arranque inicial pero ya no. Para ver qué programas se están iniciando cuando enciende su computadora, presione las teclas Ctrl, Alt y Supr al mismo tiempo
+
+25¿Revise su navegador web y su conexión a Internet?Si advierte que su computadora se está ejecutando lentamente, revise para asegurarse que tiene la versión más reciente de su navegador. Aunque la información difiera según el navegador, habrá una selección de “Acerca de” que muestre el número de versión. 
+
+26¿Desfragmente su unidad de disco duro?Desfragmentar su unidad de disco duro (HDD) puede disminuir el tiempo que le lleva al sistema encontrar cada parte de los datos que necesita para ejecutar los programas y las aplicaciones. Esas partes de datos se almacenan en un disco duro antes de que se muevan al RAM para que el programa pueda acceder a ellos.
+
+27¿Actualizar el hardware que puede ralentizar su computadora?Identificar el hardware que quizás sea debido a una actualización que no solo puede hacer que una computadora antigua y lenta se sienta como nueva de nuevo, sino también que sea significativamente más rentable que comprar una nueva.
+
+29¿Actualice su almacenamiento con una unidad de estado sólido?Su unidad de almacenamiento de la computadora es responsable de mantener las cosas que usa todos los días como su sistema operativo, programas, documentos, imágenes y música. Cuando se vence o se ralentiza, generará un impacto notable en el desempeño de su computadora.
+
+30¿Por qué una SSD ayuda a acelerar su computadora?La diferencia clave entre la unidad de disco duro y la unidad de estado sólido es la tecnología que está detrás de eso. Una HDD mueve mecánicamente el brazo actuador a través de un disco giratorio para encontrar cada porción de datos. 
+
+31¿Agregar más memoria (RAM)?A diferencia de los programas o videos que se están almacenando permanentemente en una unidad de almacenamiento, la memoria almacena los datos que se están usando actualmente lo que permite recuperarlos rápidamente, funcionando como un conjunto de recursos para que su sistema pueda hacer las cosas.
+
+32¿Por qué agregar memoria ayuda a su computadora?Cuanto más memoria tenga, más recursos tiene a disposición su sistema, lo que significa que puede hacer las cosas más rápido y manejar más cosas de una vez
+
+33¿Las claves de Microsoft para que tu PC vaya más rápido?Reiniciar, el nuevo ‘Apagar y encender’
+
+34¿Por qué mi laptop está tan lenta y cómo puedo solucionarlo?Para solucionar el problema, necesitas saber qué lo causa. Las siguientes causas comunes de la ralentización de la computadora podrían ser la razón detrás del bajo rendimiento de tu laptop.
+
+35¿Cómo arreglar una computadora lenta?
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
