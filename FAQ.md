@@ -105,24 +105,23 @@ Falla de hardware
 
 34¿Por qué mi laptop está tan lenta y cómo puedo solucionarlo?Para solucionar el problema, necesitas saber qué lo causa. Las siguientes causas comunes de la ralentización de la computadora podrían ser la razón detrás del bajo rendimiento de tu laptop.
 
-35¿Cómo arreglar una computadora lenta?
+35¿Cómo arreglar una computadora lenta?Cuando su computadora comience a ralentizarse y la poca capacidad de respuesta junto con prolongados tiempos de carga se vuelva normal
 
+36 ¿cuál es la mejor manera de resolver el problema?Arreglar una computadora lenta puede parecer una proposición desalentadora pero no lo es. Nuestra guía le mostrará cómo hacer arreglos en cuestión de minutos y al instante ofrecer resultados duraderos.
 
+37¿que tipo de limpieza debo hacer para que mi computadora no este lenta?Desinstalar programas que ya no uses. ...
+Limpiar el escritorio. ...
+Limitar las aplicaciones que se ejecutan de inicio. ...
+Eliminar archivos temporales. ...
+Asegurar que no hay presencia de malware. ...
+Liberar espacio en el disco duro. ...
+Desfragmentar y optimizar unidades.
 
+39¿Cómo hacer más rápido el PC?Limpiar su disco, desinstalar los programas que no use, evitar que los programas se inicien automáticamente, borrar los archivos temporales, instalar una unidad de estado sólido, agregar una unidad externa, agregar más RAM, desfragmentar su unidad de disco duro y quitar el polvillo.
 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+40¿Cómo solucionar la lentitud de Windows 10?Desinstala aplicaciones que no utilices.
+Mantén limpio el escritorio del ordenador. .
+Controla las aplicaciones que se ejecuten al inicio. .
+Comprueba que el PC esté libre de malware. .
+Libera espacio en tu disco duro. .
+Desfragmenta el disco duro.
