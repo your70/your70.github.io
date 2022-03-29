@@ -1,14 +1,8 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
 
-HOLA ESTAMOS PARA SERVIRLE ESTAMOS EN CONTACTO CON USTED EL SIGUIENTE CASO NOS PUEDE CONTACTAR POR LOS SUGUIENTES NUMEROS Y REDES SOCIALES GRACIAS. 
-
-NUMERO DE TELEFONO.5582026098
-
-CORREO ELECTRONICO.YOUR70@GMAIL.COM
-
-FACEBOOK,YOUR70
-
-ISTAGRAM,YOUR70OFICIAL
-
-TWITTER,YOUR70.
+<form action="https://formspree.io/f/mjvlewjj" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
